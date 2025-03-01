@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MQT/mlflow/mlruns/0/2bf2274c4981425caa8fa28eea98632a/artifacts
+end_time: 1740847259056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bf2274c4981425caa8fa28eea98632a
+run_name: shivering-gnu-431
+run_uuid: 2bf2274c4981425caa8fa28eea98632a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740847251572
+status: 3
+tags: []
+user_id: MQT

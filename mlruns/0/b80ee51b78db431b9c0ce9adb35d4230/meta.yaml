@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MQT/mlflow/mlruns/0/b80ee51b78db431b9c0ce9adb35d4230/artifacts
+end_time: 1740847216624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b80ee51b78db431b9c0ce9adb35d4230
+run_name: whimsical-foal-21
+run_uuid: b80ee51b78db431b9c0ce9adb35d4230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740847210170
+status: 3
+tags: []
+user_id: MQT

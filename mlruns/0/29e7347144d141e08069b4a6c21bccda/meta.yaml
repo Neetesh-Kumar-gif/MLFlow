@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MQT/mlflow/mlruns/0/29e7347144d141e08069b4a6c21bccda/artifacts
+end_time: 1740847001185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29e7347144d141e08069b4a6c21bccda
+run_name: gentle-crane-238
+run_uuid: 29e7347144d141e08069b4a6c21bccda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740846995474
+status: 3
+tags: []
+user_id: MQT

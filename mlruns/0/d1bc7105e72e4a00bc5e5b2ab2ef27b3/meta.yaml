@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MQT/mlflow/mlruns/0/d1bc7105e72e4a00bc5e5b2ab2ef27b3/artifacts
+end_time: 1740847203710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1bc7105e72e4a00bc5e5b2ab2ef27b3
+run_name: useful-doe-499
+run_uuid: d1bc7105e72e4a00bc5e5b2ab2ef27b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740847198401
+status: 3
+tags: []
+user_id: MQT

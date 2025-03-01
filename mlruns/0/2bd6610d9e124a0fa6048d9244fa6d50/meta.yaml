@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MQT/mlflow/mlruns/0/2bd6610d9e124a0fa6048d9244fa6d50/artifacts
+end_time: 1740847166562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bd6610d9e124a0fa6048d9244fa6d50
+run_name: nimble-toad-595
+run_uuid: 2bd6610d9e124a0fa6048d9244fa6d50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740847160035
+status: 3
+tags: []
+user_id: MQT

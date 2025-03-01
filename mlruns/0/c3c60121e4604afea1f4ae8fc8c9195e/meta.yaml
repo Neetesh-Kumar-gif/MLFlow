@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MQT/mlflow/mlruns/0/c3c60121e4604afea1f4ae8fc8c9195e/artifacts
+end_time: 1740847066438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3c60121e4604afea1f4ae8fc8c9195e
+run_name: righteous-ox-572
+run_uuid: c3c60121e4604afea1f4ae8fc8c9195e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740847060141
+status: 3
+tags: []
+user_id: MQT

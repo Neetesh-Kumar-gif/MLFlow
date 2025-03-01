@@ -30,9 +30,9 @@ def evaluate(y_true, y_pred, pred_prob):
     r2 = r2_score(y_true, y_pred)'''
 
     accuracy = accuracy_score(y_true, y_pred)
-    roc_auc_score = roc_auc_score(y_true,pred_prob, multi_class = 'ovr')
+    roc_score = roc_auc_score(y_true,pred_prob, multi_class = 'ovr')
 
-    return accuracy, roc_auc_score
+    return accuracy, roc_score
 
 def main(n_estimators , max_depth):
     df = get_data()
@@ -59,17 +59,20 @@ def main(n_estimators , max_depth):
 
         #mae ,mse, rmse,r2 = evaluate(y_test, pred)
 
-        accuracy , roc_auc_score  = evaluate(y_test, pred, pred_prob)
+        accuracy , roc_score  = evaluate(y_test, pred, pred_prob)
         
         
         mlflow.log_param("n_estimators", n_estimators)
         mlflow.log_param("max_depth", max_depth)
 
         mlflow.log_metric("accuracy", accuracy)
-        mlflow.log_metric("roc_auc_score", roc_auc_score)
+        mlflow.log_metric("roc_score", roc_score)
+
+        #mlflow model logging
+        mlflow.sklearn.log_model(rf, "Random Forst model")
 
         #print(f"mean absolute error:{mae:.2f}, mean sqauered error: {mse:.2f} , root mean squared error:{rmse:.2f} ,r2 score :{r2:.2f}  ")
-        print(f"accuracy is: {accuracy:.3f}")
+        print(f"accuracy is: {accuracy:.3f}, roc_score is: {roc_score:.3f}")
 
 if __name__ == '__main__':
     args = argparse.ArgumentParser()  # its a class

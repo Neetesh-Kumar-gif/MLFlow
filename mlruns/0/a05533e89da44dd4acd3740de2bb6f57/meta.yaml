@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MQT/mlflow/mlruns/0/a05533e89da44dd4acd3740de2bb6f57/artifacts
+end_time: 1740847108027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a05533e89da44dd4acd3740de2bb6f57
+run_name: rebellious-mare-374
+run_uuid: a05533e89da44dd4acd3740de2bb6f57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740847099601
+status: 3
+tags: []
+user_id: MQT

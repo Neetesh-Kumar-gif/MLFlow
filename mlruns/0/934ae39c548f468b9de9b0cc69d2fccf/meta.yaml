@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MQT/mlflow/mlruns/0/934ae39c548f468b9de9b0cc69d2fccf/artifacts
+end_time: 1740847191903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 934ae39c548f468b9de9b0cc69d2fccf
+run_name: redolent-loon-6
+run_uuid: 934ae39c548f468b9de9b0cc69d2fccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740847185542
+status: 3
+tags: []
+user_id: MQT

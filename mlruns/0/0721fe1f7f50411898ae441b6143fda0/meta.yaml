@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MQT/mlflow/mlruns/0/0721fe1f7f50411898ae441b6143fda0/artifacts
+end_time: 1740846974578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0721fe1f7f50411898ae441b6143fda0
+run_name: placid-shad-711
+run_uuid: 0721fe1f7f50411898ae441b6143fda0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740846969278
+status: 3
+tags: []
+user_id: MQT

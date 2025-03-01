@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MQT/mlflow/mlruns/0/1fca7e1e8f6e4c52be39b08193510616/artifacts
+end_time: 1740847123485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fca7e1e8f6e4c52be39b08193510616
+run_name: resilient-croc-818
+run_uuid: 1fca7e1e8f6e4c52be39b08193510616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740847116636
+status: 3
+tags: []
+user_id: MQT

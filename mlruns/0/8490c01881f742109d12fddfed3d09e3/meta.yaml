@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MQT/mlflow/mlruns/0/8490c01881f742109d12fddfed3d09e3/artifacts
+end_time: 1740847137716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8490c01881f742109d12fddfed3d09e3
+run_name: persistent-bug-24
+run_uuid: 8490c01881f742109d12fddfed3d09e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740847132127
+status: 3
+tags: []
+user_id: MQT

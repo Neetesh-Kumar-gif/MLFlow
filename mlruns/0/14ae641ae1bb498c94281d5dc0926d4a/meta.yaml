@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MQT/mlflow/mlruns/0/14ae641ae1bb498c94281d5dc0926d4a/artifacts
+end_time: 1740847027476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14ae641ae1bb498c94281d5dc0926d4a
+run_name: wistful-grouse-347
+run_uuid: 14ae641ae1bb498c94281d5dc0926d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740847021582
+status: 3
+tags: []
+user_id: MQT
